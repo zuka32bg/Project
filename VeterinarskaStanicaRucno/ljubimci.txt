@@ -1,0 +1,11 @@
+P, Maza, Retriver, 19, 5.3, acb82
+
+M, Odi, Sijamska, 5, z13yy
+P, Dzeki, Jazavicar, 26, 6.7, acc62
+
+P, Astra, Dalmatinac, 8, 2.1, bca88
+
+M, Feri, Persijska, 37, z3y5x
+M, Azrael, Siva, 59, 135yy
+P, Cuca, Vucjak, 13, 8.2, a424b
+
